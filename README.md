@@ -1,3 +1,56 @@
+# Your Name - Architecture & Interior Design Portfolio
+
+This repository contains the source code for my architecture and interior design portfolio website. The site showcases my work, projects, and provides information about my professional background.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Customization](#customization)
+- [Contact](#contact)
+
+## Introduction
+
+Welcome to my portfolio! This website highlights my skills and projects in architecture and interior design.
+
+## Usage
+
+To view the portfolio website:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/portfolio.git
+    ```
+2. Navigate to the repository directory:
+    ```bash
+    cd portfolio
+    ```
+3. Open the `index.html` file in your web browser:
+    ```bash
+    open index.html
+    ```
+    or
+    ```bash
+    start index.html
+    ```
+
+## File Structure
+
+- `index.html`: The main landing page of the portfolio.
+- `about.html`: The about page with information about my background.
+- `projects.html`: A gallery of my projects.
+- `contact.html`: A contact page to get in touch with me.
+- `styles.css`: The CSS file for styling the website.
+- `images/`: A directory containing images used in the portfolio.
+
+## Customization
+
+You can customize the content and style of the portfolio by editing the HTML and CSS files.
+
+### Example `index.html` Content
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,7 +110,7 @@
 </header>
 
 <nav>
-    <a href="Home.html">home</a>
+    <a href="Home.html">Home</a>
     <a href="about.html">About</a>
     <a href="projects.html">Projects</a>
     <a href="contact.html">Contact</a>
@@ -73,13 +126,12 @@
     <div class="project-gallery">
         <div class="project">
             <img src="home1.jpg" alt="Project 1">
-          
-
         </div>
-    </section>
-    
+    </div>
+</section>
+
 <footer>
-    <p>SELECTED WORKS. THANK YOU FOR YOUR TIME AND CONSIDERATION. I LOOK FORWARD TO HEARING FROM YOU SOON..</p>
+    <p>SELECTED WORKS. THANK YOU FOR YOUR TIME AND CONSIDERATION. I LOOK FORWARD TO HEARING FROM YOU SOON.</p>
 </footer>
 
 </body>
