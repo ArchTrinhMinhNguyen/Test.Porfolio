@@ -51,7 +51,7 @@ You can customize the content and style of the portfolio by editing the HTML and
 ### Example `index.html` Content
 
 ```html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
